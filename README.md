@@ -1,0 +1,2 @@
+# tradingPlatformSDK
+poloniex，bittrex，api
